@@ -1,0 +1,1 @@
+# ver a playlist do curso em vídeo
