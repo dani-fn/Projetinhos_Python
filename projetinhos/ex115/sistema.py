@@ -20,3 +20,5 @@ while True:
         cadastrar(cadastros, nome, idade)
     if opcao == 3:
         exit(titulo('Saindo do sistema... Até logo!'))
+
+
